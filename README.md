@@ -5,16 +5,16 @@ Project Description:
 This project focuses on predicting stock prices using a neural network. The dataset used is related to Netflix (NFLX) stock, containing features such as Open, High, Low, Close, Adjusted Close, and Volume.
 
 Dataset Information:
-The dataset used for this project is the historical stock data of Netflix (NFLX), including features like Open, High, Low, Close, Adjusted Close, and Volume.
+The dataset used for this project is the historical stock data of Netflix (NFLX), including features like Open, High, Low, Close, Adjusted Close, and Volume. https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-predictionNetflix
 
 Requirements:
-Python 3.x
-Pandas
-NumPy
-scikit-learn
-TensorFlow
-Matplotlib
-Seaborn
+Python 3.x,
+Pandas,
+NumPy,
+scikit-learn,
+TensorFlow,
+Matplotlib,
+Seaborn.
 
 Installation Instructions:
 Install dependencies: pip install -r requirements.txt
